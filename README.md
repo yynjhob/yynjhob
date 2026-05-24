@@ -46,7 +46,7 @@ I'm a recent Data Science graduate who builds end-to-end machine learning system
 
 ## 📌 Featured Projects
 
-### 🤖 [Ensemble RL Trading Agent](https://github.com/yourusername/rl-trading-ensemble)
+### 🤖 [Ensemble RL Trading Agent](https://github.com/yynjhob/RL-Trading-Ensemble)
 Autonomous trading system combining PPO, A2C, DDPG, and SAC into an ensemble framework that adapts to shifting market regimes. Designed to optimize risk-adjusted returns — evaluated on Sharpe ratio and maximum drawdown rather than raw performance.
 `Python` `PyTorch` `Reinforcement Learning` `Ensemble Methods`
 
