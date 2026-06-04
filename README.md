@@ -105,4 +105,4 @@ Docker-based ML workflow enabling fully reproducible experimentation across envi
 
 ---
 
-*I'm at the beginning of my career — but my instinct is already calibrated toward the problems that matter: building AI that reaches production, earns trust, and creates measurable outcomes.*
+
