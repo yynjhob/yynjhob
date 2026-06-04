@@ -65,7 +65,7 @@ Optimized Faster R-CNN for real-time drone detection using stage-wise Optuna hyp
 
 ---
 
-### [Containerized ML Workflow](https://github.com/yourusername/containerized-ml-workflow)
+### [Containerized ML Workflow](https://github.com/yynjhob/ml-pipeline-aws)
 Docker-based MLOps pipeline enabling fully reproducible training, automated evaluation, and scalable deployment on AWS. Eliminates environment inconsistency between local and production by containerizing the full model serving stack. Includes promotion gate, drift detection, and CI/CD via GitHub Actions.
 `Docker` `Python` `MLflow` `CI/CD` `AWS` `FastAPI` `GitHub Actions` `scikit-learn`
 
