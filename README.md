@@ -1,8 +1,6 @@
-# Hi, I'm Yamini 👋
-
 **Data Science Graduate | ML Engineer | NLP & LLM Systems**
 
-I'm a recent Data Science graduate who builds end-to-end machine learning systems - from data pipelines to deployable models - with a focus on applied NLP, autonomous agent design, and responsible AI. My academic work spans reinforcement learning, LLM engineering, computer vision, and distributed ML pipelines. Currently seeking junior data scientist and applied ML roles where I can bring strong technical foundations into a production environment.
+Recent Data Science graduate who builds end-to-end machine learning systems - from data pipelines to deployable models - with a focus on applied NLP, autonomous agent design, and responsible AI. My academic work spans reinforcement learning, LLM engineering, computer vision, and distributed ML pipelines. Currently seeking junior data scientist and applied ML roles where I can bring strong technical foundations into a production environment.
 
 ---
 
