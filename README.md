@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=yynjhob&color=blue&style=flat)
+
 **Data Science Graduate | ML Engineer | NLP & LLM Systems**
 
 Data Scientist with a software engineering background in finance and insurance, focused on building end-to-end ML systems - from distributed data pipelines to containerized, production-ready models. Project work spans reinforcement learning, LLM engineering, computer vision, and MLOps on AWS. Currently seeking ML Engineer or Applied Scientist roles where domain expertise in financial services meets modern AI engineering.
