@@ -12,6 +12,7 @@ I'm a recent Data Science graduate who builds end-to-end machine learning system
 - **NLP & LLM Engineering** - End-to-end text classification, RAG pipelines, multimodal LLM applications, and semantic feature extraction combining generative AI with classical ML
 - **ML Pipelines** - Automated training and deployment on AWS, containerized workflows with Docker and GitHub Actions CI/CD, experiment tracking with MLflow
 - **Predictive Modeling** - Binary classification, ensemble methods, deep learning architectures including computer vision and object detection for real-world decision problems
+-  **Distributed Spark training** across multi-node EC2 clusters (Java, Ubuntu Linux)
 
 ---
 
@@ -52,46 +53,35 @@ Autonomous trading system combining PPO, A2C, DDPG, and SAC into an ensemble fra
 `Python` `PyTorch` `Reinforcement Learning` `Ensemble Methods`
 
 ---
-
-### [Fake News Detection — LLM + Classical ML](https://github.com/yourusername/fake-news-detection)
-Two-stage detection framework combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Key finding: propagation pattern features consistently outperformed content features — a result that reshaped the entire architecture.
-`Python` `Transformers` `XGBoost` `NLP` `Feature Engineering`
-
----
-
-### [Drone Detection — Video Analytics Pipeline](https://github.com/yourusername/drone-detection)
-Optimized Faster R-CNN for real-time drone detection using stage-wise Optuna hyperparameter tuning with full experiment tracking via Weights & Biases. Learned that aggregate mAP masked failure on the hardest operational scenarios — disaggregated evaluation changed the approach entirely.
-`Python` `PyTorch` `Computer Vision` `Optuna` `Weights & Biases`
+### [Wine Quality Prediction Model](https://github.com/yynjhob/WineQualityPrediction_Spark)
+Distributed ML training on AWS using Apache Spark across 4 EC2 instances — wine quality prediction model trained in parallel, served with and without Docker on Ubuntu Linux.
+`Java` `Apache Spark` `AWS` `Docker` `Ubuntu Linux` `Distributed Computing`
 
 ---
-
 ### [Containerized ML Workflow](https://github.com/yynjhob/ml-pipeline-aws)
 Docker-based MLOps pipeline enabling fully reproducible training, automated evaluation, and scalable deployment on AWS. Eliminates environment inconsistency between local and production by containerizing the full model serving stack. Includes promotion gate, drift detection, and CI/CD via GitHub Actions.
 `Docker` `Python` `MLflow` `CI/CD` `AWS` `FastAPI` `GitHub Actions` `scikit-learn`
 
 ---
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true)
+### [WIP] [Fake News Detection — LLM + Classical ML](https://github.com/yourusername/fake-news-detection)
+Two-stage detection framework combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Key finding: propagation pattern features consistently outperformed content features — a result that reshaped the entire architecture.
+`Python` `Transformers` `XGBoost` `NLP` `Feature Engineering`
 
 ---
+### [WIP] [Drone Detection — Video Analytics Pipeline](https://github.com/yourusername/drone-detection)
+Optimized Faster R-CNN for real-time drone detection using stage-wise Optuna hyperparameter tuning with full experiment tracking via Weights & Biases. Learned that aggregate mAP masked failure on the hardest operational scenarios — disaggregated evaluation changed the approach entirely.
+`Python` `PyTorch` `Computer Vision` `Optuna` `Weights & Biases`
 
+---
 ## Background
 
-- Masters in Data Science — [University Name], [Graduation Year]
+- Masters in Data Science - NJIT, 2026
 - Software engineering background in finance and insurance
 - Currently building: MLOps pipelines on AWS and LLM agent workflows
 - Deep interest in autonomous AI systems and AI in financial services
-- Open to remote / NY/NJ
+- Open to remote / NY/ NJ
 
 ---
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
----
 
 
