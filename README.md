@@ -1,6 +1,6 @@
 **Data Science Graduate | ML Engineer | NLP & LLM Systems**
 
-Recent Data Science graduate who builds end-to-end machine learning systems - from data pipelines to deployable models - with a focus on applied NLP, autonomous agent design, and responsible AI. My academic work spans reinforcement learning, LLM engineering, computer vision, and distributed ML pipelines. Currently seeking junior data scientist and applied ML roles where I can bring strong technical foundations into a production environment.
+Data Scientist with a software engineering background in finance and insurance, focused on building end-to-end ML systems - from distributed data pipelines to containerized, production-ready models. Project work spans reinforcement learning, LLM engineering, computer vision, and MLOps on AWS. Currently seeking ML Engineer or Applied Scientist roles where domain expertise in financial services meets modern AI engineering.
 
 ---
 
