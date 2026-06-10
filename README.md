@@ -63,6 +63,11 @@ Docker-based MLOps pipeline enabling fully reproducible training, automated eval
 `Docker` `Python` `MLflow` `CI/CD` `AWS` `FastAPI` `GitHub Actions` `scikit-learn`
 
 ---
+### [BasketTube - AI NBA Game Analyzer](https://github.com/yynjhob/BasketTube_CV)
+Multimodal NBA game analyzer combining commentary-based Q&A and visual player action detection on broadcast video. Built a hybrid BM25+FAISS retrieval pipeline over Whisper transcripts to answer natural language performance questions, and a Claude Haiku Vision system to detect and classify player actions from video keyframes with per-frame motion tracking and cross-verification. 
+`Python` `Claude Haiku` `FAISS` `BM25` `Whisper` `PySceneDetect` `OpenCV` `Google Colab`
+
+---
 ### [WIP] [Fake News Detection — LLM + Classical ML](https://github.com/yourusername/fake-news-detection)
 Two-stage detection framework combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Key finding: propagation pattern features consistently outperformed content features — a result that reshaped the entire architecture.
 `Python` `Transformers` `XGBoost` `NLP` `Feature Engineering`
