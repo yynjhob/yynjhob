@@ -48,19 +48,9 @@ Data Scientist with a software engineering background in finance and insurance, 
 
 ## Featured Projects
 
-### [Ensemble RL Trading Agent](https://github.com/yynjhob/RL-Trading-Ensemble)
-Autonomous trading system combining PPO, A2C, DDPG, and SAC into an ensemble framework that adapts to shifting market regimes. Designed to optimize risk-adjusted returns — evaluated on Sharpe ratio and maximum drawdown rather than raw performance.
-`Python` `PyTorch` `Reinforcement Learning` `Ensemble Methods`
-
----
-### [Wine Quality Prediction Model](https://github.com/yynjhob/WineQualityPrediction_Spark)
-Distributed ML training on AWS using Apache Spark across 4 EC2 instances — wine quality prediction model trained in parallel, served with and without Docker on Ubuntu Linux.
-`Java` `Apache Spark` `AWS` `Docker` `Ubuntu Linux` `Distributed Computing`
-
----
-### [Containerized ML Workflow](https://github.com/yynjhob/ml-pipeline-aws)
-Docker-based MLOps pipeline enabling fully reproducible training, automated evaluation, and scalable deployment on AWS. Eliminates environment inconsistency between local and production by containerizing the full model serving stack. Includes promotion gate, drift detection, and CI/CD via GitHub Actions.
-`Docker` `Python` `MLflow` `CI/CD` `AWS` `FastAPI` `GitHub Actions` `scikit-learn`
+### [Fake News Detection — LLM + Classical ML](https://github.com/yynjhob/fake-news-detection)
+Two-stage detection framework combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Key finding: propagation pattern features consistently outperformed content features — a result that reshaped the entire architecture.
+`Python` `Transformers` `XGBoost` `NLP` `Feature Engineering`
 
 ---
 ### [BasketTube - AI NBA Game Analyzer](https://github.com/yynjhob/BasketTube_CV)
@@ -68,12 +58,17 @@ Multimodal NBA game analyzer combining commentary-based Q&A and visual player ac
 `Python` `Claude Haiku` `FAISS` `BM25` `Whisper` `PySceneDetect` `OpenCV` `Google Colab`
 
 ---
-### [WIP] [Fake News Detection — LLM + Classical ML](https://github.com/yourusername/fake-news-detection)
-Two-stage detection framework combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Key finding: propagation pattern features consistently outperformed content features — a result that reshaped the entire architecture.
-`Python` `Transformers` `XGBoost` `NLP` `Feature Engineering`
+### [Containerized ML Workflow](https://github.com/yynjhob/ml-pipeline-aws)
+Docker-based MLOps pipeline enabling fully reproducible training, automated evaluation, and scalable deployment on AWS. Eliminates environment inconsistency between local and production by containerizing the full model serving stack. Includes promotion gate, drift detection, and CI/CD via GitHub Actions.
+`Docker` `Python` `MLflow` `CI/CD` `AWS` `FastAPI` `GitHub Actions` `scikit-learn`
 
 ---
-### [WIP] [Drone Detection — Video Analytics Pipeline](https://github.com/yourusername/drone-detection)
+### [Ensemble RL Trading Agent](https://github.com/yynjhob/RL-Trading-Ensemble)
+Autonomous trading system combining PPO, A2C, DDPG, and SAC into an ensemble framework that adapts to shifting market regimes. Designed to optimize risk-adjusted returns — evaluated on Sharpe ratio and maximum drawdown rather than raw performance.
+`Python` `PyTorch` `Reinforcement Learning` `Ensemble Methods`
+
+---
+### [Drone Detection — Video Analytics Pipeline](https://github.com/yourusername/drone-detection)
 Optimized Faster R-CNN for real-time drone detection using stage-wise Optuna hyperparameter tuning with full experiment tracking via Weights & Biases. Learned that aggregate mAP masked failure on the hardest operational scenarios — disaggregated evaluation changed the approach entirely.
 `Python` `PyTorch` `Computer Vision` `Optuna` `Weights & Biases`
 
