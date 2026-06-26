@@ -48,8 +48,8 @@ Data Scientist with a software engineering background in finance and insurance, 
 
 ## Featured Projects
 
-### [Fake News Detection — LLM + Classical ML](https://github.com/yynjhob/fake-news-detection)
-Two-stage detection framework combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Key finding: propagation pattern features consistently outperformed content features — a result that reshaped the entire architecture.
+### [Fake News Detection - LLM + Classical ML](https://github.com/yynjhob/Fake_News_Detection)
+Two-stage detection framework combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Key finding: propagation pattern features consistently outperformed content features - a result that reshaped the entire architecture.
 `Python` `Transformers` `XGBoost` `NLP` `Feature Engineering`
 
 ---
